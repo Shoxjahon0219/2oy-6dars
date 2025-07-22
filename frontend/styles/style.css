@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=M+PLUS+2:wght@100..900&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Funnel Sans", sans-serif;
+}
+body {
+  background-color: #9E9EEE;
+  background: url(./oboi32.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.log {
+  padding: 25px 0;
+  font-weight: lighter;
+}
+i,
+h1 {
+  font-size: 37px;
+  display: inline-block;
+}
+
+input,
+button {
+  background-color: #f2f2f2;
+  width: 100%;
+  padding: 15px;
+  border-radius: 7px;
+  border: none;
+  margin: 7px;
+}
+
+.inp {
+  padding-right: 10px;
+}
+
+button {
+  background-color: #221020;
+  color: white;
+  margin-bottom: 15px;
+  width: 100%;
+  font-size: 20px;
+  transition: 3s;
+}
+
+button:hover{
+  background-color: #5c0c53;
+  transition: 0.6s;
+  box-shadow: 3px 3px 15px rgb(65, 65, 65);
+  cursor: pointer;
+}
+
+a {
+  color: #ff57fc;
+  text-decoration: none;
+}
+.osnova {
+  text-align: center;
+  background-color: white;
+  width: 450px;
+  padding: 40px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  padding: 30px;
+  color: #fff;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

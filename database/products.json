@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Galaxy S21",
+    "brand": "samsung",
+    "price": 5000
+  },
+  {
+    "id": 2,
+    "name": "iPhone 13",
+    "brand": "apple",
+    "price": 8000
+  },
+  {
+    "id": 3,
+    "name": "Redmi Note 11",
+    "brand": "xiaomi",
+    "price": 3000
+  },
+  {
+    "id": 4,
+    "name": "P40 Pro",
+    "brand": "huawei",
+    "price": 4500
+  },
+  {
+    "id": 5,
+    "name": "Galaxy A52",
+    "brand": "samsung",
+    "price": 4000
+  },
+  {
+    "id": 6,
+    "name": "iPhone SE",
+    "brand": "apple",
+    "price": 3500
+  },
+  {
+    "id": 7,
+    "name": "Mi 11 Lite",
+    "brand": "xiaomi",
+    "price": 3200
+  },
+  {
+    "id": 8,
+    "name": "Nova 9",
+    "brand": "huawei",
+    "price": 4100
+  },
+  {
+    "id": 9,
+    "name": "Galaxy Z Flip",
+    "brand": "samsung",
+    "price": 9500
+  },
+  {
+    "id": 10,
+    "name": "iPhone 12 Pro",
+    "brand": "apple",
+    "price": 9000
+  },
+  {
+    "id": 11,
+    "name": "Poco X3",
+    "brand": "xiaomi",
+    "price": 3100
+  },
+  {
+    "id": 12,
+    "name": "Mate 40",
+    "brand": "huawei",
+    "price": 5300
+  },
+  {
+    "id": 13,
+    "name": "Galaxy M32",
+    "brand": "samsung",
+    "price": 3700
+  },
+  {
+    "id": 14,
+    "name": "iPhone 14",
+    "brand": "apple",
+    "price": 11000
+  },
+  {
+    "id": 15,
+    "name": "Mi 10T",
+    "brand": "xiaomi",
+    "price": 4200
+  },
+  {
+    "id": 16,
+    "name": "P Smart",
+    "brand": "huawei",
+    "price": 2900
+  },
+  {
+    "id": 17,
+    "name": "Galaxy A72",
+    "brand": "samsung",
+    "price": 4800
+  },
+  {
+    "id": 18,
+    "name": "iPhone XR",
+    "brand": "apple",
+    "price": 6000
+  },
+  {
+    "id": 19,
+    "name": "Redmi 10",
+    "brand": "xiaomi",
+    "price": 2800
+  },
+  {
+    "id": 20,
+    "name": "Y9 Prime",
+    "brand": "huawei",
+    "price": 3300
+  },
+  {
+    "id": 21,
+    "name": "Galaxy S22",
+    "brand": "samsung",
+    "price": 10500
+  },
+  {
+    "id": 22,
+    "name": "iPhone 11",
+    "brand": "apple",
+    "price": 7000
+  },
+  {
+    "id": 23,
+    "name": "Mi Mix",
+    "brand": "xiaomi",
+    "price": 5200
+  },
+  {
+    "id": 24,
+    "name": "Honor 50",
+    "brand": "huawei",
+    "price": 3900
+  }
+]
